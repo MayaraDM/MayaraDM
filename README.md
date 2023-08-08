@@ -53,7 +53,8 @@ Here are some ideas to get you started: -->
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/excel.png" alt="excel" width="40" height="40"/>
   </a>
-
+<br>
+<br>
 <div>
   <a href="https://github.com/MayaraDM">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MayaraDM&show_icons=true&title_color=f29b97&icon_color=800000&text_color=d54240&bg_color=DEG,0b0b0b,222222"/>
