@@ -1,19 +1,26 @@
-### Hi there, my name is Mayara! 👋
+<h1>Hi there, my name is Mayara! 👋</h1> 
 
 <!--
 **MayaraDM/MayaraDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently finishing a Data Science course [@AdaTech](https://ada.tech/)
+- 👯 I’m looking for a Data Science/Data Analysis job
+- 🎓 Bachelor's Degree in Biological Sciences and a Master's Degree in Genetics and Molecular Biology
 - 🌱 I’m currently learning Python, Data Analytics, Data Science, Machine Learning
-- 👯 I’m looking to collaborate on Data Science Projects
+- 🧐 Enthusiast of Data-Driven Problem Solving
+- 📉 Vast experience with Statistics
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: linkedin.com/in/mayaradmedeiros
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ...
 -->
+<h2>About Me: </h2>
+<p>As a biologist, I learned and fell in love with data during my academic life. Through the analysis of complex information, I was able to understand the importance of turning raw data into actionable knowledge. My experience in dealing with biological data has allowed me to enhance my skills in database manipulation, information visualization, and identification of significant trends and patterns. Furthermore, my background in biology has provided me with a unique perspective in interpreting data, enabling me to draw relevant conclusions and make informed decisions. I have an analytical mindset and can effectively communicate complex findings to diverse audiences, whether through detailed reports or clear presentations.</p>
+
+<!--<p>I am proactive, agile, and responsible, always seeking more knowledge and challenges. I possess communication skills, teamwork abilities, and leadership qualities.</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
